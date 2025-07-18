@@ -5,7 +5,7 @@
 - 需要下载Tesseract-OCR搭配。把Tesseract-OCR目录放到bin\Release或bin\Debug下
 - 需要注册百度翻译API，填写config.json
 
-不想编译的移步[这里下载](https://github.com/novysodope/fupoTranslate/releases/tag/1)
+不想编译的移步[这里下载](https://github.com/novysodope/fupoTranslate/releases/tag/1)，填写API就好了
 
 使用：
 运行后默认只挂在托盘不显示界面，可以按快捷键Alt+Q唤起截图，Esc退出截图
